@@ -29,7 +29,7 @@ For information about other projects and open student projects see
         <b>MURAUER: Mapping Unlabeled Real Data for Label AUstERity</b><br />
         Georg Poier, Michael Opitz, David Schinagl and Horst Bischof<br />
         In <i>Proc. WACV</i>, 2019.<br />
-		<a href="https://ieeexplore.ieee.org/document/8658723">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://arxiv.org/abs/1811.09497">[Paper (arXiv)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/murauer/">[Project]</a>
       </td>
     </tr>
@@ -110,7 +110,7 @@ For information about other projects and open student projects see
         Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, 
 		Horst Bischof and Antonis A. Argyros<br />
         In <i>Proc. BMVC</i>, 2015. (selected for <b>oral</b> presentation)<br />
-		<a href="http://www.bmva.org/bmvc/2015/papers/paper182/paper182.pdf">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://arxiv.org/abs/1510.08039">[Paper (arXiv)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/94fb10b530/">[Ext. Abstract]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/f83335969c/">[Slides]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/hybridhpe/">[Project]</a>
