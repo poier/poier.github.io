@@ -6,13 +6,13 @@ layout: home
 ---
 Link to  [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
 
-I'm a research assistant and PhD student at the [Institute for 
+I'm a postdoctoral researcher at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
 where I'm working with 
 [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-Links to papers and additional material can be found below
+Below you find links to papers and additional material 
 (as this site should be more "durable" and easier 
 to handle than my official university page).
 For information about other projects and open student projects see 
