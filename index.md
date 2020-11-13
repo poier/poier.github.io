@@ -24,6 +24,15 @@ For information about other projects and open student projects see
 
 <table class="paperlisttable">
     <tr>
+      <td class="paperfigurecol"></td>
+      <td>
+        <b>Learning without Labeling for 3D Hand Pose Estimation</b><br />
+        Georg Poier<br />
+        PhD Thesis, 2020.<br />
+		<a href="https://diglib.tugraz.at/learning-without-labeling-for-3d-hand-pose-estimation-2020">[Thesis (TU Graz diglib)]</a>
+      </td>
+    </tr>
+    <tr>
       <td class="paperfigurecol"><img alt="Qualitative Results" width="250" src="images/wacv2019resultfigure.png"/></td>
       <td>
         <b>MURAUER: Mapping Unlabeled Real Data for Label AUstERity</b><br />
