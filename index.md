@@ -4,19 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Link to  [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
-
-I'm a postdoctoral researcher at the [Institute for 
+I'm a research engineer at [Reactive Reality](https://www.reactivereality.com).
+Prior to that I was a PhD Student and subsequently a postdoctoral researcher at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
-where I'm working with 
-[Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
-
-Below you find links to papers and additional material 
-(as this site should be more "durable" and easier 
-to handle than my official university page).
-For information about other projects and open student projects see 
-[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
+where I was working with 
+[Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/). 
+This page is to keep links to publications and corresponding material
+(mainly from those affiliations) accessible - and at a single place.
 
 ---
 
